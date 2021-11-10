@@ -1,0 +1,1 @@
+ouvrir exom2i.html dans un navigateur
